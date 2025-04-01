@@ -3,3 +3,7 @@
 {"duration":"1ms","ip":"::1","level":"info","message":"GET /exponent completed","method":"GET","query":{"base":"2","exponent":"3"},"service":"calculator-microservice","status":200,"timestamp":"2025-03-25T08:49:54.402Z","url":"/exponent?base=2&exponent=3"}
 {"duration":"2ms","ip":"::1","level":"info","message":"GET /sqrt completed","method":"GET","query":{"num":"16"},"service":"calculator-microservice","status":200,"timestamp":"2025-03-25T08:50:12.733Z","url":"/sqrt?num=16"}
 {"duration":"1ms","ip":"::1","level":"info","message":"GET /modulo completed","method":"GET","query":{"num1":"10","num2":"3"},"service":"calculator-microservice","status":200,"timestamp":"2025-03-25T08:50:29.631Z","url":"/modulo?num1=10&num2=3"}
+{"level":"info","message":"Calculator microservice listening at http://localhost:3000","service":"calculator-microservice","timestamp":"2025-04-01T06:24:29.006Z"}
+{"level":"info","message":"Calculator microservice listening at http://localhost:3000","service":"calculator-microservice","timestamp":"2025-04-01T06:25:17.252Z"}
+{"level":"info","message":"Calculator microservice listening at http://localhost:3000","service":"calculator-microservice","timestamp":"2025-04-01T06:25:33.665Z"}
+{"level":"info","message":"Calculator microservice listening at http://localhost:3000","service":"calculator-microservice","timestamp":"2025-04-01T06:25:51.289Z"}

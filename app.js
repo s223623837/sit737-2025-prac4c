@@ -101,6 +101,10 @@ app.get('/modulo', (req, res) => {
     res.json({ result: num1 % num2 });
 });
 
+app.get('/', (req, res) => {
+    res.send('Hello from SIT737 Cloud Native App!');
+  });
+  
 // Error handling
 app.use((err, req, res, next) => {
     logger.log({
