@@ -13,8 +13,12 @@ This project enhances the calculator microservice from Prac4P for SIT737 Cloud N
 - Git
 - Visual Studio Code
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/s223623837/sit737-2025-prac4c.git
-cd sit737-2025-prac4c
+## Step-by-Step Process Undertaken
+
+### Part I: Additional Arithmetic Operations
+1. **Use Previous Calculator App as Base**:  
+   - I started with the calculator microservice from Prac4P, which I had previously developed with Node.js, Express, and Winston logging.  
+   - I cloned the existing repository (`sit737-2025-prac4p`) to reuse its structure and functionality as the foundation for this enhancement:  
+     ```bash
+     git clone https://github.com/s223623837/sit737-2025-prac4p.git sit737-2025-prac4c
+     cd sit737-2025-prac4c
